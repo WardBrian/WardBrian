@@ -9,3 +9,5 @@ work as a member of the [Stan](https://mc-stan.org/) development team focusing o
 My interests lie in programming languages and other rules-based systems. I am not currently
 working on anything theatrical, but when I do I focus on lighting design and event
 control systems.
+
+See more of my work on https://brianward.dev/
