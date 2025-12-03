@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 2021 graduate from Boston College where I studied computer science and theatre. 
+I’m a software engineer and (mostly retired) theatrical technician and designer.
 In the summer of 2021 I joined the Center for Computational Mathematics at the
 [Flatiron Institute](https://www.simonsfoundation.org/flatiron/) where I primarily
 work as a member of the [Stan](https://mc-stan.org/) development team focusing on
